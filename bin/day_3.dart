@@ -1,5 +1,5 @@
 
 
 void main() {
-  print("hello class from VS");
+  print("hello from VS");
 }
